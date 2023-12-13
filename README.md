@@ -27,10 +27,22 @@ PC 실행
 
 ![Screenshot from 2023-12-08 05-28-06](https://github.com/DDochi98/zeus_pnp/assets/70254727/d9744e37-d414-4a6f-8996-0b054eaf4057)
 
-ZEUS 실행 코드
+---
 
+ZEUS 실행
+
+    #telnet 접속
+    
     python jh_cap_zeus_move.py
+    
+    # move_x : [입력]
+    # move_y : [입력]
+    # move_z : [입력]
+    # angle  : [입력]
 
+
+### 실행화면
+![zeus py](https://github.com/DDochi98/zeus_pnp/assets/70254727/6425931b-ee7d-4f44-8590-d490c190d7d7)
 
 
     
